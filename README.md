@@ -27,7 +27,7 @@ This project serves as an excellent learning resource for beginner programmers t
 ![Highscores](images/Highscores.png)
 
 
-## Installation
+## Usage
 
 To run the Boggle Game on your local machine, follow these steps:
 
